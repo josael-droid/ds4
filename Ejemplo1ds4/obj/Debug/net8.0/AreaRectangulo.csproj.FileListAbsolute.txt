@@ -1,0 +1,14 @@
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.exe
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.deps.json
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.runtimeconfig.json
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.dll
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.pdb
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.AssemblyInfoInputs.cache
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.AssemblyInfo.cs
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.dll
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\refint\AreaRectangulo.dll
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.pdb
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.genruntimeconfig.cache
+C:\Users\josae\source\repos\AreaRectangulo\AreaRectangulo\obj\Debug\net8.0\ref\AreaRectangulo.dll
